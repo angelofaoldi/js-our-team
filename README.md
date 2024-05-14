@@ -27,3 +27,6 @@ Barbara Ramos - Graphic Designer
 
 1) Creare array di oggetti con le informazioni fornite
 
+OBJECTS
+Composto da properties di qualsiasi tipo: stringa, numero, array, ecc...
+Comodo è creare un solo oggetto da replicare n volte, anziché creare una variabile per ogni property
